@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    background-color: aliceblue;
+}
+
+h1, h3 {
+    color: darkblue;
+}
+
+footer {
+    background-color: lightblue;
+    color: darkblue;
+    padding: 10px;
+}
